@@ -1,0 +1,30 @@
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 0 10px;
+	padding-top: 30px;
+}
+.row{
+	height: 178px;
+	margin-bottom: 4px;
+}
+.col{
+	width: 250px;
+	height: 100%;
+	float: left;
+}s
+.col a{
+	display: block;
+	width: 95%;
+	height: 95%;
+	padding: 4px;
+	text-align: center;
+	border:1px solid #ddd;
+	background-color:#fff;
+	border-radius: 4px;
+}
+.col img{
+	width: 177px;
+	height: 100%;
+	margin: 0 auto;
+}
