@@ -1,5 +1,9 @@
 .title{
 	text-align: center;
+	width: 600px;
+	height: 53px;	
+	background:url(../images/title.png) no-repeat;
+	margin: 5px auto;
 }
 .container{
 	width: 750px;
